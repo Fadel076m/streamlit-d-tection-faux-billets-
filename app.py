@@ -9,7 +9,7 @@ import plotly.express as px
 # 1) Configuration de l'app
 # -------------------------------
 st.set_page_config(
-    page_title="Détection des Faux Billets - Votre Nom", 
+    page_title="Détection des Faux Billets - Fadel ADAM", 
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -29,7 +29,7 @@ st.markdown("""
 with st.sidebar:
     st.markdown("### 📊 Informations du Projet")
     st.info("""
-**Développeur:** Votre Nom
+**Développeur:** Fadel ADAM
 
 **Technologies utilisées:**
 - FastAPI (Backend)
