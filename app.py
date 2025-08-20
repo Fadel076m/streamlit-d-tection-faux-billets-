@@ -191,7 +191,7 @@ if uploaded_file is not None:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 1rem;">
-    <p>💰 <strong>Système de Détection des Faux Billets</strong> | Développé par <strong>Votre Nom</strong></p>
+    <p>💰 <strong>Système de Détection des Faux Billets</strong> | Développé par <strong> Fadel ADAM </strong></p>
     <p>🚀 Propulsé par FastAPI + Streamlit + ML</p>
 </div>
 """, unsafe_allow_html=True)
